@@ -45,7 +45,7 @@ header p{
 
 .grid-cell{
     position: absolute;
-   
+    background-position: center 0;
     background-color: #D8BFD8;
     border-radius: 2px;
     background-size: cover;
